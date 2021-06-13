@@ -7,6 +7,7 @@ import sys
 sys.setrecursionlimit(10000)
 
 
+// adding documentation
 def attack_heuristic(board):
     h = 0
     for i in range(0, len(board[0])):
