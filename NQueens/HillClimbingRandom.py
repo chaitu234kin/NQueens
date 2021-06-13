@@ -41,7 +41,7 @@ def attack_heuristic(board):
 
     return h
 
-
+// second summary
 def h_board_creator(h_board):
     heuristic_board = np.copy(h_board)
     for i in range(0, len(h_board[0])):
