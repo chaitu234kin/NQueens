@@ -9,6 +9,7 @@ sys.setrecursionlimit(10000)
 
 // adding documentation
 // adding master commit 1
+// Adding Documentation
 def attack_heuristic(board):
     h = 0
     for i in range(0, len(board[0])):
